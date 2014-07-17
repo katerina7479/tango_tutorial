@@ -29,6 +29,5 @@ sudo -u postgres psql -c "CREATE DATABASE database"
 sudo service postgresql restart
 
 pip install psycopg2==2.5.3
-cd tango
 
 echo "Finished!"
