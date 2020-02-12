@@ -1,5 +1,5 @@
 Cheetah==2.4.4
-Django==1.6.5
+Django==1.11.28
 Landscape-Client==14.01
 Markdown==2.4.1
 PAM==0.4.2
