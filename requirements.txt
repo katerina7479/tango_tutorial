@@ -3,7 +3,7 @@ Django==1.6.5
 Landscape-Client==14.01
 Markdown==2.4.1
 PAM==0.4.2
-PyYAML==3.10
+PyYAML==5.4
 SecretStorage==2.0.0
 South==0.8.4
 Twisted-Core==13.2.0
